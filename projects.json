@@ -1,14 +1,14 @@
 [
     {
       "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://fancy-concha-a55612.netlify.app/",
+      "git": "https://github.com/misanni/project1",
+      "image": "https://imgur.com/a/SdBmUqt"
     },
     {
       "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://project-2-1940.onrender.com/",
+      "git": "https://github.com/misanni/project-2",
+      "image": "https://imgur.com/a/ZBpOKCJ"
     }
   ]
