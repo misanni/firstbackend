@@ -3,12 +3,12 @@
       "name": "project1",
       "live": "https://fancy-concha-a55612.netlify.app/",
       "git": "https://github.com/misanni/project1",
-      "image": "https://imgur.com/a/SdBmUqt"
+      "image": "https://raw.githubusercontent.com/misanni/firstfrontend/main/images/newsapp.png"
     },
     {
       "name": "project2",
       "live": "https://project-2-1940.onrender.com/",
       "git": "https://github.com/misanni/project-2",
-      "image": "https://imgur.com/a/ZBpOKCJ"
+      "image": "https://raw.githubusercontent.com/misanni/firstfrontend/main/images/database.png"
     }
   ]
